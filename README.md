@@ -2,14 +2,9 @@
 
 <div align="center">
 
-## enscribe.dev
-
-[![CodeFactor]](https://www.codefactor.io/repository/github/jktrn/enscribe.dev)
 [![Next.js]](https://hexo.io)
 [![License]](LICENSE)
 [![Non-Code License]](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-
-[enscribe.dev](https://enscribe.dev) is my personal information-security blog—built with [Next.js](https://nextjs.org/), [Tailwind CSS](https://tailwindcss.com/), TypeScript, and deployed on [Vercel](https://vercel.com/). Based off the [timlrx/tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog/) blogging template.
 
 </div>
 
@@ -49,7 +44,6 @@ For the purposes of this license, "code" refers to the software components, conf
 
 All such code in this repository is licensed under the **Apache License 2.0**:
 
-> [enscribe.dev](https://enscribe.dev) © 2023 by enscribe
 >
 > Licensed under the Apache License, Version 2.0 (the "License");
 > you may not use this file except in compliance with the License.
@@ -66,9 +60,3 @@ All such code in this repository is licensed under the **Apache License 2.0**:
 ### Non-Code Content
 
 Any content not defined above as code, which includes but is not limited to MDX blog posts, SVG graphics, personal assets, other images, written content in any format, and any accompanying documentation, is licensed under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International** (CC BY-NC-ND 4.0) License. This means you can use and share the content, but you must provide appropriate attribution, cannot use it for commercial purposes, and cannot distribute modified versions of it. Further details can be found at [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
-
-[CodeFactor]: https://img.shields.io/codefactor/grade/github/jktrn/enscribe.dev?color=2f2a24&logo=codefactor&logoColor=fff&style=for-the-badge
-[Next.js]: https://img.shields.io/github/package-json/dependency-version/jktrn/enscribe.dev/next?color=463f37&logo=next.js&logoColor=fff&style=for-the-badge
-[License]: https://img.shields.io/github/license/jktrn/enscribe.dev?color=5d5449&logo=github&logoColor=fff&style=for-the-badge
-[Non-Code License]: https://img.shields.io/badge/non--code%20license-CC%20BY--NC--ND%204.0-756a5b?style=for-the-badge&logo=creativecommons&logoColor=fff
-
